@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Eu Amo Programar</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">EBAC</string>
+    <string name="second_fragment_label">Desenvolvedor Android Kotlin</string>
+    <string name="next">NEXT</string>
+    <string name="previous">BACK</string>
+
+    <string name="lorem_ipsum">
+        EU AMO PROGRAMAR!
+    </string>
+</resources>
